@@ -1,0 +1,11 @@
+ipykernel
+scikit-learn==1.5.2
+pandas
+streamlit
+numpy
+gensim
+tqdm
+BeautifulSoup4
+tensorflow==2.17.0
+tensorboard
+scikeras
