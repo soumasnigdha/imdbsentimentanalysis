@@ -23,7 +23,7 @@ Experience the sentiment analysis model in action! The Streamlit application is 
 * **TensorBoard**: For visualizing training metrics and model graphs.
 
 ## Model Performance
-The Simple RNN model was trained and validated, achieving an accuracy of approximately **75%** on unseen IMDB movie reviews.
+The Simple RNN model was trained and validated, achieving an accuracy of approximately **75.50%** on unseen IMDB movie reviews.
 
 ## Project Structure
 * `imdb_sentiment_analysis.ipynb`: Jupyter Notebook containing the full data loading, preprocessing, model definition, training, evaluation, and saving of the Simple RNN model.
